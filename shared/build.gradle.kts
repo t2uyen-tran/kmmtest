@@ -1,16 +1,11 @@
 plugins {
     kotlin("multiplatform")
-    kotlin("native.cocoapods")
     id("com.android.library")
     id("co.touchlab.faktory.kmmbridge").version("0.2.3")
+    kotlin("native.cocoapods")
 }
 
-kmmbridge {
-    githubReleaseArtifacts()
-    githubReleaseVersions()
-    versionPrefix.set("0.1")
-    spm()
-}
+version = "0.1"
 
 kotlin {
     android()
@@ -23,10 +18,6 @@ kotlin {
         homepage = "Link to the Shared Module homepage"
         version = "1.0"
         ios.deploymentTarget = "14.1"
-        podfile = project.file("../iosApp/Podfile")
-        framework {
-            baseName = "shared"
-        }
     }
     
     sourceSets {
@@ -66,4 +57,11 @@ android {
         minSdk = 23
         targetSdk = 32
     }
+}
+
+kmmbridge {
+    githubReleaseArtifacts()
+    githubReleaseVersions()
+    spm()
+    versionPrefix.set("0.1")
 }
