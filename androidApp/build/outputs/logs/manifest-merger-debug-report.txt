@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.material:material:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/03481f681e34483adcb67b68345fe1dd/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6be5de43c5a09200c7f482f1a81b75cd/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/68975f6e510c9c2fc0e8401bf26617b7/transformed/foundation-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/002441ce372565fa4798e5c4c1f7668a/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a497173b8336c7e67c03413c127c21ee/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fef84255a0192e45e88339919ab5eab1/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/72fb5f43b119b1f2fba698a96a7ee505/transformed/foundation-layout-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/84f77ded359f9e44cb82837b45b5e7c8/transformed/material-icons-core-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a53287489f9ede62942011160a40f8e0/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5f954991e88947ac32d5d98037fcd6e9/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/7c9c012b7a7d94778c4e4bb295eace90/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fb9ef195fca39c66f2b5e279179f9c13/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/39b6cfa963d8445c61eb39c6d98567cf/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/af0ecc315967d117faa8f1bb9405a6fe/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5bc7a83ab54b084f3182734c56b2fe13/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/9c35480330996c553e582e0379e0fcb6/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6d87e51a009e8b208bce1e4b9d976ac7/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/9136630f030b080875a86200d2da9d3f/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/1ff748d134ea3b97d63d8cc697c74c74/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/087de69daef7342b12ba320eaa28668a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/b11f4a03f662ebdb7ab0f50aef6ae602/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/391bf1534d912289d663f9ad8efbc851/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/499a30a8f7f4b82e4c41cc6bf1444a90/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/3aa85a626a114ff029f8db01e4a3ce51/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b1cc4d5ec3e34126c3b7987234ca0793/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/203c9cabfe1b26f3301cfc98ec675e37/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/mikedtran/.gradle/caches/transforms-3/a68403d078e60bd7b4a69d4f09a84bca/transformed/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/914641be4be43193cdcc27fd68fc90c7/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/05acfdbe07a3474136efef63aed5a37c/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/64cd19a35e7b3783dbe1d047b7473763/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0a6a88f22a5974922cb8bf2051211df9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0f34a2f8af202fbe27869659df849fa7/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mikedtran/.gradle/caches/transforms-3/dd0c550ec9515b03380ef4ea94cac6ef/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b9ef7a25db03798349aa8fb839b81533/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mikedtran/.gradle/caches/transforms-3/d0d5e565d3c57d19a62912a993eaecf5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/64cd19a35e7b3783dbe1d047b7473763/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/64cd19a35e7b3783dbe1d047b7473763/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:7:9-40
+activity#com.example.kmmkotlintest.android.MainActivity
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/03481f681e34483adcb67b68345fe1dd/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/03481f681e34483adcb67b68345fe1dd/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6be5de43c5a09200c7f482f1a81b75cd/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6be5de43c5a09200c7f482f1a81b75cd/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/68975f6e510c9c2fc0e8401bf26617b7/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/68975f6e510c9c2fc0e8401bf26617b7/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/002441ce372565fa4798e5c4c1f7668a/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/002441ce372565fa4798e5c4c1f7668a/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a497173b8336c7e67c03413c127c21ee/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a497173b8336c7e67c03413c127c21ee/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fef84255a0192e45e88339919ab5eab1/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fef84255a0192e45e88339919ab5eab1/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/72fb5f43b119b1f2fba698a96a7ee505/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/72fb5f43b119b1f2fba698a96a7ee505/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/84f77ded359f9e44cb82837b45b5e7c8/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/84f77ded359f9e44cb82837b45b5e7c8/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a53287489f9ede62942011160a40f8e0/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/a53287489f9ede62942011160a40f8e0/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5f954991e88947ac32d5d98037fcd6e9/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5f954991e88947ac32d5d98037fcd6e9/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/7c9c012b7a7d94778c4e4bb295eace90/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/7c9c012b7a7d94778c4e4bb295eace90/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fb9ef195fca39c66f2b5e279179f9c13/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/fb9ef195fca39c66f2b5e279179f9c13/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/39b6cfa963d8445c61eb39c6d98567cf/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/39b6cfa963d8445c61eb39c6d98567cf/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/af0ecc315967d117faa8f1bb9405a6fe/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/af0ecc315967d117faa8f1bb9405a6fe/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5bc7a83ab54b084f3182734c56b2fe13/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/5bc7a83ab54b084f3182734c56b2fe13/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/9c35480330996c553e582e0379e0fcb6/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/9c35480330996c553e582e0379e0fcb6/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6d87e51a009e8b208bce1e4b9d976ac7/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/6d87e51a009e8b208bce1e4b9d976ac7/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/9136630f030b080875a86200d2da9d3f/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/9136630f030b080875a86200d2da9d3f/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/1ff748d134ea3b97d63d8cc697c74c74/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/1ff748d134ea3b97d63d8cc697c74c74/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/087de69daef7342b12ba320eaa28668a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/087de69daef7342b12ba320eaa28668a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/b11f4a03f662ebdb7ab0f50aef6ae602/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/mikedtran/.gradle/caches/transforms-3/b11f4a03f662ebdb7ab0f50aef6ae602/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/391bf1534d912289d663f9ad8efbc851/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/391bf1534d912289d663f9ad8efbc851/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/499a30a8f7f4b82e4c41cc6bf1444a90/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/499a30a8f7f4b82e4c41cc6bf1444a90/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/3aa85a626a114ff029f8db01e4a3ce51/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/3aa85a626a114ff029f8db01e4a3ce51/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b1cc4d5ec3e34126c3b7987234ca0793/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b1cc4d5ec3e34126c3b7987234ca0793/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/203c9cabfe1b26f3301cfc98ec675e37/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/203c9cabfe1b26f3301cfc98ec675e37/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/mikedtran/.gradle/caches/transforms-3/a68403d078e60bd7b4a69d4f09a84bca/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/mikedtran/.gradle/caches/transforms-3/a68403d078e60bd7b4a69d4f09a84bca/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/914641be4be43193cdcc27fd68fc90c7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/914641be4be43193cdcc27fd68fc90c7/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/05acfdbe07a3474136efef63aed5a37c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/05acfdbe07a3474136efef63aed5a37c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/mikedtran/.gradle/caches/transforms-3/5f13d81423560847b55d98c15a72e3c1/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/64cd19a35e7b3783dbe1d047b7473763/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/64cd19a35e7b3783dbe1d047b7473763/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0a6a88f22a5974922cb8bf2051211df9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0a6a88f22a5974922cb8bf2051211df9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0f34a2f8af202fbe27869659df849fa7/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/mikedtran/.gradle/caches/transforms-3/0f34a2f8af202fbe27869659df849fa7/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mikedtran/.gradle/caches/transforms-3/dd0c550ec9515b03380ef4ea94cac6ef/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mikedtran/.gradle/caches/transforms-3/dd0c550ec9515b03380ef4ea94cac6ef/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b9ef7a25db03798349aa8fb839b81533/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mikedtran/.gradle/caches/transforms-3/b9ef7a25db03798349aa8fb839b81533/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mikedtran/.gradle/caches/transforms-3/d0d5e565d3c57d19a62912a993eaecf5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mikedtran/.gradle/caches/transforms-3/d0d5e565d3c57d19a62912a993eaecf5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikedtran/Documents/ComfortDelGro/KMMKotlinTest/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/mikedtran/.gradle/caches/transforms-3/82ebc18a1bc1ee06239c08229602195b/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mikedtran/.gradle/caches/transforms-3/8ab4b9df7ec73948d77c3519b0b44d19/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/mikedtran/.gradle/caches/transforms-3/f2019ec2abe3ef02ca0130990529c6bb/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
